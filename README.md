@@ -6,7 +6,7 @@ A neural network built on Fashion MNIST, starting with backprop written by hand
 in plain numpy, then moving to a proper PyTorch model - testing different
 activations, loss functions, optimizers, and regularization along the way.
 
-Roll no: 23F-0576 Minahil Fatima, 23F-0618 Usman Dilbar
+Roll no: 23F-0576 Minahil Fatima, 23F-0618 Usman Dilbar.
 
 ## What's inside
 
